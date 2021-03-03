@@ -2,7 +2,7 @@ title: Morteza Azami
 description: > # this means to ignore newlines until "baseurl:"
   morteza azami's weblog you can call me dictawtor
 permalink: ':title/'
-baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+baseurl: "/flexible-jekyll/" # the subpath of your site, e.g. /blog
 url: "https://mrazami.ir" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
